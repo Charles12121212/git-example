@@ -7,5 +7,6 @@ public class DemoTest {
     public void test() {
         Demo demo = new Demo();
         demo.say();
+        demo.say();
     }
 }
