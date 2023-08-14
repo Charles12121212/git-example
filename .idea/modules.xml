@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chendaiquan0802/chendaiquan0802.iml" filepath="$PROJECT_DIR$/chendaiquan0802/chendaiquan0802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chendaiquan0809/chendaiquan0809.iml" filepath="$PROJECT_DIR$/chendaiquan0809/chendaiquan0809.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day01-basic/day01-basic.iml" filepath="$PROJECT_DIR$/../1javaclass/day01-basic/day01-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day02-basic/day02-basic.iml" filepath="$PROJECT_DIR$/../1javaclass/day02-basic/day02-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day03-array&amp;method/day03-array&amp;method.iml" filepath="$PROJECT_DIR$/../1javaclass/day03-array&amp;method/day03-array&amp;method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day04-oop/day04-oop.iml" filepath="$PROJECT_DIR$/../1javaclass/day04-oop/day04-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day05-oop/day05-oop.iml" filepath="$PROJECT_DIR$/../1javaclass/day05-oop/day05-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day06-api/day06-api.iml" filepath="$PROJECT_DIR$/../1javaclass/day06-api/day06-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day07-api/day07-api.iml" filepath="$PROJECT_DIR$/../1javaclass/day07-api/day07-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day08-Collection&amp;Map/day08-Collection&amp;Map.iml" filepath="$PROJECT_DIR$/../1javaclass/day08-Collection&amp;Map/day08-Collection&amp;Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day09-Map&amp;File/day09-Map&amp;File.iml" filepath="$PROJECT_DIR$/../1javaclass/day09-Map&amp;File/day09-Map&amp;File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day10-io/day10-io.iml" filepath="$PROJECT_DIR$/../1javaclass/day10-io/day10-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day11-thread/day11-thread.iml" filepath="$PROJECT_DIR$/../1javaclass/day11-thread/day11-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day12-thread/day12-thread.iml" filepath="$PROJECT_DIR$/../1javaclass/day12-thread/day12-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day13-socket/day13-socket.iml" filepath="$PROJECT_DIR$/../1javaclass/day13-socket/day13-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14--/day14--.iml" filepath="$PROJECT_DIR$/day14--/day14--.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day14-reflect/day14-reflect.iml" filepath="$PROJECT_DIR$/../1javaclass/day14-reflect/day14-reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1javaclass/day21-jdbc/day21.iml" filepath="$PROJECT_DIR$/../1javaclass/day21-jdbc/day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21-text/day21-text.iml" filepath="$PROJECT_DIR$/day21-text/day21-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/day22.iml" filepath="$PROJECT_DIR$/day22/day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22-/day22-.iml" filepath="$PROJECT_DIR$/day22-/day22-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
