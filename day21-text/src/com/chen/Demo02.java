@@ -11,7 +11,7 @@ public class Demo02 {
         //得到连接以后,创建state对象 家炼狱只是的欲
 
 //        Statement statement = new Statement;
-        //connection有一个创建预处理对象的方法
+        //connection有一个预处理对象的方法
         Statement statement = connection.createStatement();
 
         //得到这个方法以后,先编写SQL
